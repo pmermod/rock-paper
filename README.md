@@ -1,2 +1,2 @@
 # rock-paper
-My final project for JavaScript Fundamentals
+Final project for Javascript Fundamentals class
